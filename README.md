@@ -21,4 +21,4 @@ En el archivo **Principal.java** se ejecuta el código, y se empleó paquetes pa
 
 #### Video del código 
 
-(https://www.youtube.com/watch?v=0tBdRybHgcA&ab_channel=IsabellaOcampo)
+(https://www.youtube.com/watch?v=252Ow5RY7Zg)
